@@ -1,16 +1,23 @@
 [
   {
+    "slug": "2026-09-28-incrivel",
+    "title": "O github pages é incrivel",
+    "date": "2026-09-28",
+    "file": "posts/2026-09-28-incrivel.md",
+    "summary": "Apenas com poucas linhas de código e alguns cliques já é capaz de criar um blog inteiramente funcional. ## Testando update Teoricamente a criação de..."
+  },
+  {
     "slug": "2026-09-28-primeiro-post",
     "title": "Meu Primeiro Post",
     "date": "2026-09-28",
     "file": "posts/2026-09-28-primeiro-post.md",
-    "summary": "Este é o primeiro artigo do meu blog estático no GitHub Pages."
+    "summary": "Este é o primeiro artigo publicado no blog estático. ## Como funciona? - **HTML, CSS e JS Puros:** Sem frameworks pesados. - **Markdown:** Textos lim..."
   },
   {
     "slug": "2026-09-20-bem-vindo",
     "title": "Bem-vindo ao Blog",
     "date": "2026-09-20",
     "file": "posts/2026-09-20-bem-vindo.md",
-    "summary": "Uma breve introdução sobre este projeto sem dependências de frameworks."
+    "summary": "Seja bem-vindo ao meu espaço na web!  Este blog foi construído do zero utilizando apenas **HTML**, **CSS** e **JavaScript** puro, utilizando arquivos..."
   }
 ]
