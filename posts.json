@@ -14,6 +14,13 @@
     "summary": "Este é o primeiro artigo publicado no blog estático. ## Como funciona? - **HTML, CSS e JS Puros:** Sem frameworks pesados. - **Markdown:** Textos lim..."
   },
   {
+    "slug": "2026-09-28-teste-com-imagens",
+    "title": "Explorando o Desenvolvimento Web Estático",
+    "date": "2026-09-28",
+    "file": "posts/2026-09-28-teste-com-imagens.md",
+    "summary": "O desenvolvimento de sites estáticos voltou a ganhar uma enorme popularidade devido à sua **velocidade**, **segurança** e **baixo custo de hospedagem*..."
+  },
+  {
     "slug": "2026-09-20-bem-vindo",
     "title": "Bem-vindo ao Blog",
     "date": "2026-09-20",
