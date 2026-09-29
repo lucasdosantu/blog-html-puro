@@ -1,0 +1,18 @@
+[
+    {
+        "slug": "2026-09-28-primeiro-post",
+            "title": "Meu Primeiro Post",
+                "date": "2026-09-28",
+                    "file": "posts/2026-09-28-primeiro-post.md",
+                        "summary": "Este é o primeiro artigo do meu blog estático no GitHub Pages."
+                          },
+                            {
+                                "slug": "2026-09-20-bem-vindo",
+                                    "title": "Bem-vindo ao Blog",
+                                        "date": "2026-09-20",
+                                            "file": "posts/2026-09-20-bem-vindo.md",
+                                                "summary": "Uma breve introdução sobre este projeto sem dependências de frameworks."
+                                                  }
+                                                  ]
+                                                  
+]
