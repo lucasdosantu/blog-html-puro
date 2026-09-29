@@ -5,7 +5,7 @@ const app = document.getElementById("app");
 
 async function iniciar() {
   try {
-    const res = await fetch("posts.json");
+    const res = await fetch('posts.json', { cache: 'no-store' });
     listaPosts = await res.json();
 
     window.addEventListener("hashchange", roteador);
